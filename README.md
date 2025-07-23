@@ -10,8 +10,8 @@ Já venho estudando por conta própria linguagens como HTML, CSS, JavaScript e u
 * 🖥️  See my portfolio at [Meu portifolio](http://jhojan-dev.space)
 * ✉️  You can contact me at [jhojangpatino@gmail.com](mailto:jhojangpatino@gmail.com)
 * 🚀  I'm currently working on [Restaurante onlin](http://naguara.online)
-* 🧠  I'm learning Estou aprendendo tecnologias modernas de desenvolvimento web como HTML, CSS e JavaScript para criar interfaces dinâmicas, junto com React para construir aplicações interativas. No lado do servidor, trabalho com Node.js e Express, gerenciando dados com bancos de dados SQL e NoSQL. Também utilizo Git e GitHub para controle de versão e ferramentas como Tailwind CSS para otimizar o design.
-* 🤝  I'm open to collaborating on colaborar em projetos de desenvolvimento web, criação de interfaces modernas, lojas online, sistemas full stack e soluções digitais que unam design e funcionalidade
+* 🧠  Estou aprendendo tecnologias modernas de desenvolvimento web como HTML, CSS e JavaScript para criar interfaces dinâmicas, junto com React para construir aplicações interativas. No lado do servidor, trabalho com Node.js e Express, gerenciando dados com bancos de dados SQL e NoSQL. Também utilizo Git e GitHub para controle de versão e ferramentas como Tailwind CSS para otimizar o design.
+* 🤝  Estou disposto a colaborar em projetos de desenvolvimento web, criação de interfaces modernas, lojas online, sistemas full stack e soluções digitais que unam design e funcionalidade
 
 <a href="https://www.github.com/JHOJAN-4410" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/JHOJAN-4410?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
